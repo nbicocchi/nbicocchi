@@ -1,5 +1,5 @@
 ### :herb: Research 
-My research activity is focused on Internet of Things and Pervasive Computing. I mostly investigate new forms of interaction between humans, personal devices (e.g., smartphones and wearables) and data in increaglisgly pervasive environments. Key areas of interest include:
+My research activity is focused on Internet of Things and Pervasive Computing. I mostly [investigate](http://personale.unimore.it/rubrica/pubblicazioni/nbicocchi) new forms of interaction between humans, personal devices (e.g., smartphones and wearables) and data in increaglisgly pervasive environments. Key areas of interest include:
 * Internet of Things
 * Mobile Computing
 * Pervasive Computing
