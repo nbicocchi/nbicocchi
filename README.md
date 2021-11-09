@@ -10,7 +10,7 @@ My research activity is focused on Internet of Things and Pervasive Computing. I
 * [Thesis proposals and templates](thesis.md).
 
 ### :seedling: Thesis proposals (bachelor)
-*Students are welcome to propose their own development ideas, internships at local companies, or work on key technologies listed below.*
+Students are welcome to propose their own development ideas, internships at local companies, or work on key technologies listed below.
 
 Languages
 * Recent object-oriented programming languages (Scala, Dart, Kotlin)
