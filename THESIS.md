@@ -12,6 +12,7 @@ Mobile development
 
 Development processes
 * Develoment processes (DevOps, Scrum, Extreme Programming, RUP, CleanRoom)
+* Version control software (Git, SVN, Mercurial)
 * Testing tools (JUnit, NUnit, TestNG, Selenium)
 * Continuous integration (Jenkins, TeamCity, Bamboo, Buddy)
 
