@@ -22,8 +22,10 @@ Cloud and Microservices
 ### Master Degree (available)
 Students are welcome to propose their own development ideas, internships at local companies, or contact me directly for more specific topics.
 
-### Maste Degree (completed)
+<!---
+### Master Degree (completed)
 * Alessandro Debbia - Sviluppo dell'applicazione Android di Dispensa Emilia (2021)
 * Werther Berselli - Predizione dei mercati finanziari con tecniche di machine learning (2020)
 * Allegretti Gianluca - Progettazione e sviluppo di un'applicazione per frigoriferi IoT (2019)
 * Davoli Tommaso - Software testing in Java (2018)
+-->
