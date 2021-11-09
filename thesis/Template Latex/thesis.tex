@@ -1,0 +1,44 @@
+\documentclass[12pt,a4paper,oneside]{book}
+%\usepackage[italian]{babel}
+\renewcommand{\baselinestretch}{1.5} 
+\usepackage[]{frontespizio}
+
+\begin{document}
+
+\begin{frontespizio}
+\Rientro {1.5cm}
+\Margini {1.5cm}{1.5cm}{1.5cm}{1cm}
+\Universita {Modena e Reggio Emilia}
+\Logo [1.5cm]{_images/UNIMORE}
+\Facolta {Ingegneria}
+\Corso [Laurea]{Ingegneria Informatica}
+\Annoaccademico {2018-2019}
+\Titoletto {Prova Finale}
+\Titolo {Design and Development of...}
+\Candidato [matricola]{Nome Cognome}
+\Relatore {Nicola Bicocchi}
+%\Correlatore{da inserire}
+\end{frontespizio}
+
+\newpage
+\begin{flushright}
+\null\vspace{\stretch{1}}
+\textit{All'unione di Shiva e Parvati che rende feconda la distruzione.}
+\vspace{\stretch{1}}\null
+\end{flushright}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\input{_chapters/introduction.tex}
+\input{_chapters/tools.tex}
+\input{_chapters/design.tex}
+\input{_chapters/conclusion.tex}
+
+\appendix
+
+\bibliographystyle{plain}
+\bibliography{thesis}
+
+\end{document}
