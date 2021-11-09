@@ -2,9 +2,8 @@
 Students are welcome to:
 * propose their own development ideas
 * propose internships at local companies
-* read and summarize recent books on software engineering 
+* [read and summarize books on software engineering](https://github.com/nbicocchi/nbicocchi/reading-list)
 * work on key technologies listed below
-* 
 
 Languages
 * Recent object-oriented programming languages (Scala, Dart, Kotlin)
@@ -27,7 +26,7 @@ Cloud and Microservices
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
 ## Master Degree (available)
-Students are welcome to propose their own development ideas, internships at local companies, or contact me directly for more specific topics.
+Students are welcome to contact me directly.
 
 <!---
 ### Master Degree (completed)
