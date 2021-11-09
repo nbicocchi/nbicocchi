@@ -2,7 +2,7 @@
 Students are welcome to:
 * propose their own development ideas
 * propose internships at local companies
-* [read and summarize books on software engineering](https://github.com/nbicocchi/nbicocchi/reading-list)
+* [read and summarize books on software engineering](https://github.com/nbicocchi/nbicocchi/tree/main/reading-list)
 * work on key technologies listed below
 
 Languages
