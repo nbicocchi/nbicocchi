@@ -19,11 +19,6 @@
 * Rapid Development: Taming Wild Software Schedules
 * Peopleware: Productive Projects and Teams
 
-### Mentality
-* Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
-* Against Method
-* The Passionate Programmer: Creating a Remarkable Career in Software Development
-
 ### History
 * The Mythical Man-Month: Essays on Software Engineering
 * Computing Calamities: Lessons Learned from Products, Projects, and Companies That Failed
@@ -76,29 +71,7 @@
 ### History
 * Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software
 * New Turning Omnibus: 66 Excursions in Computer Science
-* Hacker's Delight
-* The Alchemist
 * Masterminds of Programming: Conversations with the Creators of Major Programming Languages
-* The Information: A History, A Theory, A Flood
-
-### Specialist Skills
-* Peter Norton's Assembly Language Book for the IBM PC
-* Expert C Programming: Deep C Secrets
-* Enough Rope to Shoot Yourself in the Foot: Rules for C and C++ Programming
-* The C++ Programming Language
-* Effective C++: 55 Specific Ways to Improve Your Programs and Designs
-* More Effective C++: 35 New Ways to Improve Your Programs and Designs
-* More Effective C#: 50 Specific Ways to Improve Your C#
-* CLR via C#
-* Mr. Bunny's Big Cup o' Java
-* Thinking in Java
-* JUnit in Action
-* Functional Programming in Scala
-* The Art of Prolog: Advanced Programming Techniques
-* The Craft of Prolog
-* Programming Perl: Unmatched Power for Text Processing and Scripting
-* Dive into Python 3
-* why's (poignant) guide to Ruby
 
 ## Senior Level Software Engineer Reading List
 ### Read This First
@@ -109,7 +82,6 @@
 * Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions
 * Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML
 * Systemantics: How Systems Work and Especially How They Fail
-* Rework
 * Writing Secure Code
 * Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries
 
@@ -142,21 +114,6 @@
 * The Back of the Napkin: Solving Problems and Selling Ideas with Pictures
 * The Timeless Way of Building
 * The Soul Of A New Machine
-
-### Software Engineering Skill Sets
-* Software Tools
-* UML Distilled: A Brief Guide to the Standard Object Modeling Language
-* Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development
-* Practical Parallel Programming
-* Past, Present, Parallel: A Survey of Available Parallel Computer Systems
-* Mastering Regular Expressions
-* Compilers: Principles, Techniques, and Tools
-* Computer Graphics: Principles and Practice in C
-* Michael Abrash's Graphics Programming Black Book
-* The Art of Deception: Controlling the Human Element of Security
-* SOA in Practice: The Art of Distributed System Design
-* Data Mining: Practical Machine Learning Tools and Techniques
-* Data Crunching: Solve Everyday Problems Using Java, Python, and more.
 
 ### Design
 * The Psychology Of Everyday Things
