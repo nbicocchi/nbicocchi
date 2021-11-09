@@ -1,5 +1,3 @@
-# Thesis Proposals and Templates (DIEF, UNIMORE) #
-
 ### Bachelor Degree (available)
 Students are welcome to propose their own development ideas, internships at local companies, or work on key technologies listed below.
 
