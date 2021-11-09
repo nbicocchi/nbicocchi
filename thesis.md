@@ -1,7 +1,7 @@
 # Thesis Proposals and Templates (DIEF, UNIMORE) #
 
 ## Bachelor Degree (available)
-*Students are welcome to propose their own development ideas, internships at local companies, or work on key technologies listed below.*
+Students are welcome to propose their own development ideas, internships at local companies, or work on key technologies listed below.
 
 Languages
 * Recent object-oriented programming languages (Scala, Dart, Kotlin)
@@ -22,7 +22,7 @@ Cloud and Microservices
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
 ## Master Degree (available)
-*Students are welcome to propose their own development ideas, internships at local companies, or contact me directly for more specific topics.*
+Students are welcome to propose their own development ideas, internships at local companies, or contact me directly for more specific topics.
 
 ## Maste Degree (completed)
 * Alessandro Debbia - Sviluppo dell'applicazione Android di Dispensa Emilia (2021)
