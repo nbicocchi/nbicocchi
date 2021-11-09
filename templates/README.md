@@ -1,4 +1,4 @@
-## Bachelor Degree (available)
+## Bachelor Degree
 Students are welcome to:
 * propose their own development ideas
 * propose internships at local companies
@@ -25,7 +25,7 @@ Cloud and Microservices
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
-## Master Degree (available)
+## Master Degree
 Students are welcome to contact me directly.
 
 <!---
