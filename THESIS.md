@@ -6,7 +6,8 @@ Languages
 * Recent functional programming languages (Haskell)
 
 Mobile development
-* Frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
+* Application frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
+* Augment reality frameworks (ARCore, Vuforia)
 * High performance toolsets (Android NDK)
 
 Development processes
