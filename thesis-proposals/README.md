@@ -6,8 +6,8 @@ Students are welcome to:
 * study one or more key technologies listed below
 
 At the end of the learning process, students are expected to deliver:
-* A 20-40 pages essay on what they have learned/developed
-* A 10 slides presentation
+* A 20-40 pages essay on what they have learned/developed (see thesis-examples)
+* A 10 slides presentation (see thesis-examples)
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge to other students on YouTube (optional)
 
 ### Technologies
