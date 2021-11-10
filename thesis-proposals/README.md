@@ -1,29 +1,39 @@
 ## Bachelor Degree
 Students are welcome to:
-* propose their own development ideas
+* propose original development ideas
 * propose internships at local companies
-* [read and summarize books on software engineering](https://github.com/nbicocchi/nbicocchi/tree/main/reading-list)
-* work on key technologies listed below
+* read and summarize [books on software development](https://github.com/nbicocchi/nbicocchi/tree/main/reading-list)
+* study one or more key technologies listed below
 
-Languages
-* Recent object-oriented programming languages (Scala, Dart, Kotlin)
-* Recent functional programming languages (Haskell)
+At the end of the learning process, students are expected to deliver:
+* A 20-40 pages essay on what they have learned/developed
+* A 10 slides presentation
+* A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge to other students on YouTube (optional)
 
-Mobile development
+### Technologies
+#### Languages
+* Object-oriented programming languages (Scala, Dart, Kotlin)
+* Trait-oriented programming languages (Rust)
+* Functional programming languages (Haskell)
+
+#### Mobile development
+* Operating systems (Android, IoS)
 * Application frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
-* Augment reality frameworks (ARCore, Vuforia)
 * High performance toolsets (Android NDK)
+* Augment reality frameworks (ARCore, Vuforia)
 
-Development processes
+#### Development processes
 * Develoment processes (DevOps, Scrum, Extreme Programming, RUP, CleanRoom)
 * Version control software (Git, SVN, Mercurial)
 * Testing tools (JUnit, NUnit, TestNG, Selenium)
 * Continuous integration (Jenkins, TeamCity, Bamboo, Buddy)
 
-Cloud and Microservices
+#### IoT/Cloud 
 * Microservices frameworks (Spring Boot, Spark, Jersey)
+* Digital Twins frameworks (Hono, Ditto, Kafka, Grafana)
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
+
 
 ## Master Degree
 Students are welcome to contact me directly.
