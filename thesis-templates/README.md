@@ -1,6 +1,8 @@
 ## Thesis Templates
-Thesis must be written using the provided templates for either [Word](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateWord.zip) or [Latex](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateLatex.zip).
-An [overleaf-ready template](https://www.overleaf.com/read/kxmdmvxwwycd) is also provided. Follow the link and, from the top-left menu in Overleaf, select "Copy Project".
+Thesis must be written using one of the provided templates:
+* [Word](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateWord.zip)
+* [Latex](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateLatex.zip)
+* [Overleaf](https://www.overleaf.com/read/kxmdmvxwwycd) (Follow the link and, from the top-left menu in Overleaf, select "Copy Project")
 
 ## Bachelor Degree
 Students are welcome to:
