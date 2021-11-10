@@ -1,3 +1,7 @@
+## Thesis Templates
+Thesis must be written using the provided templates for either Word or Latex.
+An overleaf-ready template is also provided. Follow this [link](https://www.overleaf.com/read/kxmdmvxwwycd) and from the top-left menu select "Copy Project".
+
 ## Bachelor Degree
 Students are welcome to:
 * propose their own development ideas
