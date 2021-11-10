@@ -51,7 +51,7 @@
 * Working Effectively with Legacy Code
 * Test Driven Development: By Example
 
-## DevOps
+### DevOps
 * Time Management for System Administrators: Stop Working Late and Start Working Smart
 * The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services
 * The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT
