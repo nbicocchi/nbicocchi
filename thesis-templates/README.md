@@ -1,5 +1,5 @@
 ## Thesis Templates
-Thesis must be written using the provided templates for either Word or Latex.
+Thesis must be written using the provided templates for either [Word](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateWord.zip) or [Latex](https://github.com/nbicocchi/nbicocchi/raw/main/thesis-templates/TemplateLatex.zip).
 An [overleaf-ready template](https://www.overleaf.com/read/kxmdmvxwwycd) is also provided. Follow the link and, from the top-left menu in Overleaf, select "Copy Project".
 
 ## Bachelor Degree
