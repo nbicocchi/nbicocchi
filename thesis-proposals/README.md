@@ -34,7 +34,6 @@ At the end of the learning process, students are expected to deliver:
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
-
 ## Master Degree
 Students are welcome to contact me directly.
 
