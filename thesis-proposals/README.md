@@ -20,7 +20,7 @@ At the end of the learning process, students are expected to deliver:
 * Operating systems (Android, IoS)
 * Application frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
 * High performance toolsets (Android NDK)
-* Augment reality frameworks (ARCore, Vuforia)
+* Augmented reality frameworks (ARCore, Vuforia)
 
 #### Development processes
 * Develoment processes (DevOps, Scrum, Extreme Programming, RUP, CleanRoom)
