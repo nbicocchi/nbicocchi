@@ -1,4 +1,4 @@
-## Technologies
+# Technologies
 ### Languages
 * Object-oriented programming languages (Scala, Dart, Kotlin)
 * Trait-oriented programming languages (Rust)
@@ -22,7 +22,7 @@
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
-## Books
+# Books
 ### Solid Code
 * Code Complete: A Practical Handbook of Software Construction
 * Refactoring: Improving the Design of Existing Code
@@ -107,7 +107,7 @@
 * Masterminds of Programming: Conversations with the Creators of Major Programming Languages
 * 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
 
-## Videos
+# Videos
 * [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 * [Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
