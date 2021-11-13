@@ -1,34 +1,41 @@
-## Software Engineer Reading List
+## Technologies
+### Languages
+* Object-oriented programming languages (Scala, Dart, Kotlin)
+* Trait-oriented programming languages (Rust)
+* Functional programming languages (Haskell)
 
-### Read This First
-* Pragmatic Thinking and Learning: Refactor Your Wetware
-* Personal Development for Smart People: The Conscious Pursuit of Personal Growth
-* Mastery: The Keys to Success and Long-Term Fulfillment
+### Mobile development
+* Operating systems (Android, IoS)
+* Application frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
+* High performance toolsets (Android NDK)
+* Augmented reality frameworks (ARCore, Vuforia)
 
-### Fundamentals
+### Development processes
+* Develoment processes (DevOps, Scrum, Extreme Programming, RUP, CleanRoom)
+* Version control software (Git, SVN, Mercurial)
+* Testing tools (JUnit, NUnit, TestNG, Selenium)
+* Continuous integration (Jenkins, TeamCity, Bamboo, Buddy)
+
+### IoT/Cloud
+* Microservices frameworks (Spring Boot, Spark, Jersey)
+* Digital Twins frameworks (Hono, Ditto, Kafka, Grafana)
+* Containerization (Docker, Kubernetes)
+* Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
+
+## Books
+### Solid Code
 * Code Complete: A Practical Handbook of Software Construction
-* Software Estimation: Demystifying the Black Art
-* Software Engineering: A Practitioner's Approach
 * Refactoring: Improving the Design of Existing Code
-* Coder to Developer: Tools and Strategies for Delivering Your Software
-* Perfect Software: And Other Illusions about Testing
-* Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application
 * The Clean Coder: A Code of Conduct for Professional Programmers
 * Clean Code: A Handbook of Agile Software Craftsmanship
 * Beautiful Code: Leading Programmers Explain How They Think
 * Code Craft: The Practice of Writing Excellent Code
 * Software Craftsmanship: The New Imperative
+* The Best Software Writing I
 * Writing Solid Code
 
-### Understanding Professional Software Environments
-* Agile Software Development: The Cooperative Game
-* Software Project Survival Guide
-* The Best Software Writing I: Selected and Introduced by Joel Spolsky
-* Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams
-* Rapid Development: Taming Wild Software Schedules
-* Peopleware: Productive Projects and Teams
-
-### Software Design
+### Design Patterns
+* Software Engineering: A Practitioner's Approach
 * Head First Design Patterns: A Brain-Friendly Guide
 * Design Patterns: Elements of Reusable Object-Oriented Software
 * Domain-Driven Design: Tackling Complexity in the Heart of Software
@@ -41,33 +48,40 @@
 * Systemantics: How Systems Work and Especially How They Fail
 * Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries
 
-### Software Engineering Skill Sets
-* Building Microservices: Designing Fine-Grained Systems
-* Software Factories: Assembling Applications with Patterns, Models, Frameworks, and Tools
-* NoEstimates: How To Measure Project Progress Without Estimating
-* Object-Oriented Software Construction
+### Software Testing
+* Perfect Software: And Other Illusions about Testing
 * The Art of Software Testing
-* Release It!: Design and Deploy Production-Ready Software
-* Working Effectively with Legacy Code
 * Test Driven Development: By Example
 
+### Peopleware
+* Software Project Survival Guide
+* NoEstimates: How To Measure Project Progress Without Estimating
+* Debugging the Development Process: Practical Strategies for Staying Focused, Hitting Ship Dates, and Building Solid Teams
+* Rapid Development: Taming Wild Software Schedules
+* Peopleware: Productive Projects and Teams
+* Coder to Developer: Tools and Strategies for Delivering Your Software
+* Agile Software Development: The Cooperative Game
+* Software Estimation: Demystifying the Black Art
+* Release It!: Design and Deploy Production-Ready Software
+
+### Microservices
+* Building Microservices: Designing Fine-Grained Systems
+
 ### DevOps
+* DevOps: A Software Architect's Perspective
 * Time Management for System Administrators: Stop Working Late and Start Working Smart
-* The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services
 * The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT
 * Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale
-* DevOps: A Software Architect's Perspective
 * The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
 * Site Reliability Engineering: How Google Runs Production Systems
 * Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-* Migrating Large-Scale Services to the Cloud
 
 ### User Experience
 * Don't Make Me Think: A Common Sense Approach to Web Usability
 * The Design of Everyday Things
-* Programming Collective Intelligence: Building Smart Web 2.0 Applications
 * User Interface Design for Programmers
+* Programming Collective Intelligence: Building Smart Web 2.0 Applications
 * GUI Bloopers 2.0: Common User Interface Design Don'ts and Dos
 
 ### Mentality
@@ -81,6 +95,9 @@
 * The Soul Of A New Machine
 
 ### History/Philosophy
+* Pragmatic Thinking and Learning: Refactor Your Wetware
+* Personal Development for Smart People: The Conscious Pursuit of Personal Growth
+* Mastery: The Keys to Success and Long-Term Fulfillment
 * Making Software: What Really Works, and Why We Believe It
 * The Mythical Man-Month: Essays on Software Engineering
 * Computing Calamities: Lessons Learned from Products, Projects, and Companies That Failed
@@ -90,5 +107,16 @@
 * Masterminds of Programming: Conversations with the Creators of Major Programming Languages
 * 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
 
-
-
+## Videos
+[Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+[The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+[Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+[Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
+[Steve Jobs Insult Response - Highest Quality](https://www.youtube.com/watch?v=oeqPrUmVz-o)
+[The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
+[Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+[The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+[CS50 Lecture by Mark Zuckerberg - 7 December 2005](https://www.youtube.com/watch?v=xFFs9UgOAlE)
+[AlphaGo - The Movie | Full award-winning documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+[CHM Live | The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4)
+[Software Testing Explained: How QA is Done Today](https://www.youtube.com/watch?v=oLc9gVM8FBM)
