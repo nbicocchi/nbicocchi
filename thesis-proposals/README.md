@@ -1,5 +1,4 @@
 ## Bachelor Degree
-
 ### What to do?
 Students are welcome to:
 * propose original development ideas
@@ -9,7 +8,7 @@ Students are welcome to:
 
 ### What to deliver?
 Students are expected to deliver:
-* A 20-40 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
+* A 25-50 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
 * A 10 slides presentation (8-10 minutes) (see thesis-examples/, thesis-templates/)
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge with other students on YouTube (optional)
 
@@ -21,7 +20,7 @@ Students are expected to deliver:
 
 ### What to deliver?
 Students are expected to deliver:
-* A 70-100 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
+* A 75-150 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
 * A 15 slides presentation (15-17 minutes) (see thesis-examples/, thesis-templates/)
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge with other students on YouTube (optional)
 
