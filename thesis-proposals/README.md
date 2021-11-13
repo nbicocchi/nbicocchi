@@ -34,6 +34,9 @@ At the end of the learning process, students are expected to deliver:
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
 
+#### User experience design (see reading-list/)
+
+
 ## Master Degree
 Students are welcome to contact me directly.
 
