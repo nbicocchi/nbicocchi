@@ -108,10 +108,10 @@
 * 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
 
 # Videos
-* [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 * [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
-* [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
+* [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
 * [Steve Jobs Insult Response - Highest Quality](https://www.youtube.com/watch?v=oeqPrUmVz-o)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
