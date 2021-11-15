@@ -21,13 +21,19 @@ The final grade (0-3) is divided in two portions:
 ### What to do?
 * propose original development ideas
 * propose internships at companies
-* contact me directly for more detailed topics
+* contact me directly for research topics
 
 ### What to deliver?
 Students are expected to deliver:
 * A 75-150 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
 * A 15 slides presentation (15-17 minutes) (see thesis-examples/, thesis-templates/)
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge with other students on YouTube (optional)
+
+### What to expect?
+The final grade ranges between 0 and 7.
+* 3-4 points are usually assigned to average works
+* 5-6 points are usually assigned to very good works
+* 7 points are assigned to outstanding works
 
 <!---
 ### Master Degree (completed)
