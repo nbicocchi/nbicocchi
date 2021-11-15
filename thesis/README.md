@@ -3,13 +3,13 @@
 Students are welcome to:
 * propose original development ideas
 * propose internships at companies
-* study/compare one or more technologies listed [here](https://github.com/nbicocchi/nbicocchi/tree/main/reading-list)
-* read, understand, and summarize a book listed [here](https://github.com/nbicocchi/nbicocchi/tree/main/reading-list)
+* study/compare one or more technologies listed [here](ideas)
+* read, understand, and summarize a book listed [here](ideas)
 
 ### What to deliver?
 Students are expected to deliver:
-* A 25-50 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
-* A 10 slides presentation (8-10 minutes) (see thesis-examples/, thesis-templates/)
+* A 25-50 pages essay on what they have learned/developed (see [examples](examples), [templates](templates))
+* A 10 slides presentation (8-10 minutes) (see [examples](examples), [templates](templates))
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge with other students on YouTube (optional)
 
 ### What to expect?
@@ -26,8 +26,8 @@ Students are welcome to:
 
 ### What to deliver?
 Students are expected to deliver:
-* A 75-150 pages essay on what they have learned/developed (see thesis-examples/, thesis-templates/)
-* A 15 slides presentation (15-17 minutes) (see thesis-examples/, thesis-templates/)
+* A 75-150 pages essay on what they have learned/developed (see [examples](examples), [templates](templates))
+* A 15 slides presentation (15-17 minutes) (see [examples](examples), [templates](templates))
 * A video tutorial (10-20 minutes) on what they have learned/developed to share knowledge with other students on YouTube (optional)
 
 ### What to expect?
