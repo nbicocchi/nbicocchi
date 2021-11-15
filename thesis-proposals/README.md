@@ -1,4 +1,4 @@
-## Bachelor Degree
+# Bachelor Degree
 ### What to do?
 Students are welcome to:
 * propose original development ideas
@@ -17,7 +17,7 @@ The final grade (0-3) is divided in two portions:
 * 1 point depends on the sole presentation
 * 2 points depend on the quality and complexity of your work. In general, works with or without an experimental component (implementations of some kind) receive 2 or 1 point, respectively.
 
-## Master Degree
+# Master Degree
 ### What to do?
 * propose original development ideas
 * propose internships at companies
