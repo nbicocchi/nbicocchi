@@ -21,7 +21,7 @@ The final grade (0-3) is divided in two portions:
 ### What to do?
 * propose original development ideas
 * propose internships at companies
-* contact me directly more detailed topics
+* contact me directly for more detailed topics
 
 ### What to deliver?
 Students are expected to deliver:
