@@ -6,7 +6,7 @@
 
 ### Mobile development
 * Operating systems (Android, IoS)
-* Application frameworks (Flutter, React Native, Apache Cordova, Bootstrap)
+* Application frameworks (Unity, Flutter, React Native, Apache Cordova, Bootstrap)
 * High performance toolsets (Android NDK)
 * Augmented reality frameworks (ARCore, Vuforia)
 
