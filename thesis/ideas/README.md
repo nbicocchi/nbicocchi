@@ -21,6 +21,7 @@
 * Digital Twins frameworks (Hono, Ditto, Kafka, Grafana)
 * Containerization (Docker, Kubernetes)
 * Cloud services (Amazon AWS, Microsoft Azure, Google Cloud)
+* Serverless Computing
 
 # Books
 ### Solid Code
