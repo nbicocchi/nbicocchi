@@ -70,13 +70,13 @@ While developing I get strange errors. What should I do?
 
 **Description**
 
-Advanced course introducing how to design, implement, and maintain microservice architectures using the Spring Boot Framework.
-Recommended to learners with previous experience in Java Programming and Computer Networks.
+Advanced course introducing how to design, implement, deploy, and maintain microservice architectures using Java, Spring Framework, Docker and Kubernetes. Recommended to learners with some experience in Java and Distributed Systems.
 
 **Exam**
 
-* Discuss the structure and engineering choices of a home project **(50% weight)**
-* Answer general questions about the key topics of the course **(50% weight)**
+It is possible to take the final exam at any time, after making arrangements with Dr. Bicocchi. Specifically, the exam is structured as follows:
+* A discussion about a home project which has to be related to the key topics of the course. Possible ideas can be found [here](https://github.com/nbicocchi/learn-microservices/blob/main/IDEAS.md). Please discuss your idea to Dr. Bicocchi before starting! **(75% weight)**.
+* Some general questions about the key topics of the course. More specifically, students will be asked questions concerning **only** M1.1, M2.1, M3.1, M4.1, M5.1, M6.1, M7.1, M8.1 of [this](https://github.com/nbicocchi/learn-microservices) repository **(25% weight)**.
 
 
 **Repositories**
