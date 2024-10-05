@@ -70,17 +70,16 @@ While developing I get strange errors. What should I do?
 
 **Description**
 
-Advanced course introducing how to design, implement, deploy, and maintain microservice architectures using Java, Spring Framework, Docker and Kubernetes. Recommended to learners with some experience in Java and Distributed Systems.
+Advanced course providing a comprehensive introduction to microservices architecture, focusing on building, deploying, and managing scalable distributed systems. The course covers essential topics such as software architecture, containerization, communication (both synchronous and asynchronous), service discovery, resiliency, observability, and DevSecOps. Students will work with tools like Java, Spring Boot, Docker, and JMeter, gaining practical skills in microservice development and orchestration. The course also includes advanced topics like distributed caching, database management in microservices, and automated security testing in DevOps workflows.
 
 **Exam**
 
-It is possible to take the final exam at any time, after making arrangements with Dr. Bicocchi. Specifically, the exam is structured as follows:
-* A discussion about a home project which has to be related to the key topics of the course. Possible ideas can be found [here](https://github.com/nbicocchi/learn-microservices/blob/main/IDEAS.md). Please discuss your idea to Dr. Bicocchi before starting! **(75% weight)**.
-* Some general questions about the key topics of the course. More specifically, students will be asked questions concerning **only** M1.1, M2.1, M3.1, M4.1, M5.1, M6.1, M7.1, M8.1 of [this](https://github.com/nbicocchi/learn-microservices) repository **(25% weight)**.
+You can take the final exam at any time by arranging it with Dr. Bicocchi. The exam consists of the following components:
+* One exercise, selected or adapted from the Lab section of each module (50% of the final grade)
+* Two questions, selected or adapted from the Lab section of each module (50% of the final grade)
 
+If you're particularly interested in the topic, you also have the option to develop a home project instead of taking the exam.
 
 **Repositories**
-
-* https://github.com/nbicocchi/learn-spring-boot
 * https://github.com/nbicocchi/learn-microservices
 
