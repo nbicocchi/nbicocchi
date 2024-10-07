@@ -70,7 +70,7 @@ While developing I get strange errors. What should I do?
 
 **Description**
 
-Advanced course providing a comprehensive introduction to microservices architecture, focusing on building, deploying, and managing scalable distributed systems. The course covers essential topics such as software architecture, containerization, communication (both synchronous and asynchronous), service discovery, resiliency, observability, and DevSecOps. Students will work with tools like Java, Spring Boot, Docker, and JMeter, gaining practical skills in microservice development and orchestration. The course also includes advanced topics like distributed caching, database management in microservices, and automated security testing in DevOps workflows.
+Advanced course providing a comprehensive introduction to microservices architecture, focusing on building, deploying, and managing scalable distributed systems. The course covers essential software patterns for building a distributed infrastructure such as containerization, communication, discovery, routing, resiliency, observability. Students will work with tools like Java, Spring Boot, Docker, and JMeter, gaining practical skills in microservice development and orchestration. The course also includes advanced topics like database transactions, DevSecOps, and MLOps applied to a distributed environment.
 
 **Exam**
 
