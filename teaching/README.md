@@ -74,11 +74,15 @@ Advanced course providing a comprehensive introduction to microservices architec
 
 **Exam**
 
-You can take the final exam at any time by arranging it with Dr. Bicocchi. The exam consists of the following components:
-* One exercise, selected or adapted from the Lab section of each module (50% of the final grade)
-* Two questions, selected or adapted from the Lab section of each module (50% of the final grade)
+You can schedule the final exam at any time by coordinating with Dr. Bicocchi. The exam consists of the following components:
 
-If you're particularly interested in the topic, you also have the option to develop a home project instead of taking the exam.
+- **Oral Exam (50% of the final grade):**
+    - Two questions, selected or adapted from the Lab section of each module.
+
+- **Written Exam (50% of the final grade):**
+    - One exercise, selected or adapted from the Lab section of each module.  
+      **OR**
+    - A home project on a topic related to the exam material. The project **must** be structured as a course module, including both a Markdown presentation and executable code.
 
 **Repositories**
 * https://github.com/nbicocchi/learn-microservices
