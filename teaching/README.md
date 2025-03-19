@@ -5,11 +5,6 @@
 
 ## Programmazione di Sistema (LT DIEF)
 
-**Description**
-
-Basic course introducing the installation, maintenance, and automation of modern Unix systems using both Bash and the C language.
-Recommended to learners without previous experience.
-
 **Exam**
 
 * Solve 1 exercise from the [learn-bash](https://github.com/nbicocchi/learn-bash) repository **(40% weight)**
@@ -25,16 +20,11 @@ Recommended to learners without previous experience.
 
 ## Programmazione ad Oggetti (LT DIEF)
 
-**Description**
-
-Intermediate course introducing Object-Oriented Programming (OOP) principles with the Java language. 
-Recommend to learners with previous programming experience.
-
 **Exam**
 
 * Solve 2 exercises from the [learn-java-core](https://github.com/nbicocchi/learn-java-core) repository **(60% weight)**
-* Discuss the structure and engineering choices of a home project **(20% weight)**
 * Answer general questions about the key topics of the course **(20% weight)**
+* Discuss the structure and engineering choices of a home project **(20% weight)**
 
 **Home Project**
 
@@ -68,22 +58,12 @@ While developing I get strange errors. What should I do?
 
 ## Distributed Edge Programming (LM DIEF)
 
-**Description**
-
-Advanced course providing a comprehensive introduction to microservices architecture, focusing on building, deploying, and managing scalable distributed systems. The course covers essential software patterns for building a distributed infrastructure such as containerization, communication, discovery, routing, resiliency, observability. Students will work with tools like Java, Spring Boot, Docker, and JMeter, gaining practical skills in microservice development and orchestration. The course also includes advanced topics like database transactions, DevSecOps, and MLOps applied to a distributed environment.
-
 **Exam**
 
-You can schedule the final exam at any time by coordinating with Dr. Bicocchi. The exam consists of the following components:
-
-- **Oral Exam (50% of the final grade):**
-    - Two questions, selected or adapted from the Lab section of each module.
-
-- **Written Exam (50% of the final grade):**
-    - One exercise, selected or adapted from the Lab section of each module.  
-      **OR**
-    - A home project on a topic related to the exam material. The project **must** be structured as a course module, including both a Markdown presentation and executable code.
+* Answer two questions, selected or adapted, from the Lab section of the course modules.
+* Solve one exercise, selected or adapted from the Lab section of the course modules. Eventually, this portion of the exam, can be replaced with a home project. The project **must** be structured as a course module, including both a Markdown presentation and executable code, and be related to the course material.
 
 **Repositories**
+
 * https://github.com/nbicocchi/learn-microservices
 
