@@ -61,7 +61,7 @@ While developing I get strange errors. What should I do?
 **Exam**
 
 * Answer two questions, selected or adapted, from the Lab section of the course modules.
-* Solve one exercise, selected or adapted from the Lab section of the course modules. Eventually, this portion of the exam, can be replaced with a home project. The project **must** be structured as a course module, including both a Markdown presentation and executable code, and be related to the course material (see modules_extra).
+* Discuss one exercise, selected or adapted from the Lab section of the course modules. Eventually, this portion of the exam, can be replaced with a home project. The project **must** be structured as a course module, including both a Markdown presentation and executable code, and be related to the course material (see modules_extra).
 
 **Repositories**
 
