@@ -65,9 +65,6 @@ The project should be **well-structured, readable, and properly documented**.
 
 > The first half of the course focuses on fundamental concepts that should be mastered first. It is recommended to start the project around the midterm and dedicate the second half of the course to refining the design and implementation.
 
-**I encounter unusual errors during development. What should I do?**
-
-> First, copy the error message and search for it online. Most common issues are well documented, often with solutions available on platforms such as Stack Overflow.
 
 #### Repositories
 
