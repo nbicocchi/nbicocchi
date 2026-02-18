@@ -10,14 +10,14 @@ This page provides an overview of the courses, exam structure, and related resou
 
 ## Programmazione di Sistema (LT DIEF)
 
-### Exam
+#### Exam
 
 The exam consists of two practical components:
 
 * Solve **one exercise** from the [learn-bash](https://github.com/nbicocchi/learn-bash) repository (**12 points**).
 * Solve **one exercise** from the [learn-c](https://github.com/nbicocchi/learn-c) repository (**18 points**).
 
-### Repositories
+#### Repositories
 
 * [https://github.com/nbicocchi/learn-bash](https://github.com/nbicocchi/learn-bash)
 * [https://github.com/nbicocchi/learn-c](https://github.com/nbicocchi/learn-c)
@@ -26,7 +26,7 @@ The exam consists of two practical components:
 
 ## Programmazione ad Oggetti (LT DIEF)
 
-### Exam
+#### Exam
 
 The exam is structured as follows:
 
@@ -34,9 +34,7 @@ The exam is structured as follows:
 * Answer **two theoretical questions** covering the main course topics (**12 points**).
 * Present and discuss the **structure and engineering choices** of a **home project** (**6 points**).
 
----
-
-### Home Project
+#### Home Project
 
 The home project must satisfy the following requirements:
 
@@ -49,9 +47,7 @@ The home project must satisfy the following requirements:
 
 The project should be **well-structured, readable, and properly documented**.
 
----
-
-### Frequently Asked Questions
+#### Frequently Asked Questions
 
 **Can we develop the project in groups of three?**
 
@@ -73,9 +69,7 @@ The project should be **well-structured, readable, and properly documented**.
 
 > First, copy the error message and search for it online. Most common issues are well documented, often with solutions available on platforms such as Stack Overflow.
 
----
-
-### Repositories
+#### Repositories
 
 * [https://github.com/nbicocchi/learn-java-core](https://github.com/nbicocchi/learn-java-core)
 * [https://github.com/nbicocchi/learn-java-javafx](https://github.com/nbicocchi/learn-java-javafx)
@@ -84,7 +78,7 @@ The project should be **well-structured, readable, and properly documented**.
 
 ## Distributed Edge Programming (LM DIEF)
 
-### Exam
+#### Exam
 
 The exam includes:
 
@@ -97,6 +91,6 @@ This second part may be replaced by a **home project**. In this case, the projec
 * Include both a **Markdown presentation** and **executable code**.
 * Be clearly aligned with the course topics.
 
-### Repository
+#### Repositories
 
 * [https://github.com/nbicocchi/learn-microservices](https://github.com/nbicocchi/learn-microservices)
