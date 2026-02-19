@@ -90,4 +90,7 @@ This second part may be replaced by a **home project**. In this case, the projec
 
 #### Repositories
 
-* [https://github.com/nbicocchi/learn-microservices](https://github.com/nbicocchi/learn-microservices)
+* https://github.com/nbicocchi/learn-microservices
+* https://github.com/nbicocchi/learn-microservices-python
+* https://github.com/nbicocchi/product-service-ci-cd
+* https://github.com/nbicocchi/learn-microservices-config
