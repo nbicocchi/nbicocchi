@@ -1,24 +1,16 @@
 # Teaching
 
-This page provides an overview of the courses, exam structure, and related resources.
+## Distributed Edge Programming (LM DIEF)
 
-* [Programmazione di Sistema (LT DIEF)](#programmazione-di-sistema-lt-dief)
-* [Programmazione ad Oggetti (LT DIEF)](#programmazione-ad-oggetti-lt-dief)
-* [Distributed Edge Programming (LM DIEF)](#distributed-edge-programming-lm-dief)
-
----
+* [Course Catalog](https://unimore.coursecatalogue.cineca.it/corsi/2025/10975/insegnamenti/2026/29639/2025/10000?coorte=2025&schemaid=22723)
+* https://github.com/nbicocchi/learn-microservices
+* https://github.com/nbicocchi/learn-microservices-python
+* https://github.com/nbicocchi/product-service-ci-cd
+* https://github.com/nbicocchi/learn-microservices-config
 
 ## Programmazione di Sistema (LT DIEF)
 
-#### Exam
-
-The exam consists of two practical components:
-
-* Solve **one exercise** from the [learn-bash](https://github.com/nbicocchi/learn-bash) repository (**12 points**).
-* Solve **one exercise** from the [learn-c](https://github.com/nbicocchi/learn-c) repository (**18 points**).
-
-#### Repositories
-
+* [Course Catalog](https://unimore.coursecatalogue.cineca.it/corsi/2026/10927/insegnamenti/2026/29286/2026/9999?schemaid=23114)
 * [https://github.com/nbicocchi/learn-bash](https://github.com/nbicocchi/learn-bash)
 * [https://github.com/nbicocchi/learn-c](https://github.com/nbicocchi/learn-c)
 
@@ -26,28 +18,20 @@ The exam consists of two practical components:
 
 ## Programmazione ad Oggetti (LT DIEF)
 
-#### Exam
+* [Course Catalog](https://unimore.coursecatalogue.cineca.it/corsi/2025/10926/insegnamenti/2026/29460/2025/10000?coorte=2025&schemaid=23223)
+* [https://github.com/nbicocchi/learn-java-core](https://github.com/nbicocchi/learn-java-core)
+* [https://github.com/nbicocchi/learn-java-javafx](https://github.com/nbicocchi/learn-java-javafx)
 
-The exam is structured as follows:
 
-* Solve **two exercises** from the [learn-java-core](https://github.com/nbicocchi/learn-java-core) repository (**12 points**).
-* Answer **two theoretical questions** covering the main course topics (**12 points**).
-* Present and discuss the **structure and engineering choices** of a **home project** (**6 points**).
+### Home Project FAQ
 
-#### Home Project
-
-The home project must satisfy the following requirements:
+The project must satisfy the following requirements:
 
 * It must be developed using **AI-assisted coding tools**.
 * It must include a `README.md` file that clearly describes the **project goals, design decisions, and internal structure**.
-* It must contain **250–500 lines of logic code per person**, excluding GUI components and XML configuration files.
 * It must use **Maven** as the build and dependency management tool.
 * It should take inspiration from the examples available in the repository:
   [https://github.com/nbicocchi/learn-java-javafx/tree/main/code](https://github.com/nbicocchi/learn-java-javafx/tree/main/code)
-
-The project should be **well-structured, readable, and properly documented**.
-
-#### Frequently Asked Questions
 
 **Can we develop the project in groups of three?**
 
@@ -64,33 +48,3 @@ The project should be **well-structured, readable, and properly documented**.
 **When is the best time to start the project?**
 
 > The first half of the course focuses on fundamental concepts that should be mastered first. It is recommended to start the project around the midterm and dedicate the second half of the course to refining the design and implementation.
-
-
-#### Repositories
-
-* [https://github.com/nbicocchi/learn-java-core](https://github.com/nbicocchi/learn-java-core)
-* [https://github.com/nbicocchi/learn-java-javafx](https://github.com/nbicocchi/learn-java-javafx)
-
----
-
-## Distributed Edge Programming (LM DIEF)
-
-#### Exam
-
-The exam includes:
-
-* Answer **two questions**, selected or adapted from the *Lab* sections of the course modules (**15 points**).
-* Discuss **one exercise**, selected or adapted from the *Lab* sections of the course modules (**15 points**).
-
-This second part may be replaced by a **home project**. In this case, the project **must**:
-
-* Be structured as a complete **course module**.
-* Include both a **Markdown presentation** and **executable code**.
-* Be clearly aligned with the course topics.
-
-#### Repositories
-
-* https://github.com/nbicocchi/learn-microservices
-* https://github.com/nbicocchi/learn-microservices-python
-* https://github.com/nbicocchi/product-service-ci-cd
-* https://github.com/nbicocchi/learn-microservices-config
