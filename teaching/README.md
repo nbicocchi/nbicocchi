@@ -23,28 +23,3 @@
 * [https://github.com/nbicocchi/learn-java-javafx](https://github.com/nbicocchi/learn-java-javafx)
 
 
-### Home Project FAQ
-
-The project must satisfy the following requirements:
-
-* It must be developed using **AI-assisted coding tools**.
-* It must include a `README.md` file that clearly describes the **project goals, design decisions, and internal structure**.
-* It must use **Maven** as the build and dependency management tool.
-* It should take inspiration from the examples available in the repository:
-  [https://github.com/nbicocchi/learn-java-javafx/tree/main/code](https://github.com/nbicocchi/learn-java-javafx/tree/main/code)
-
-**Can we develop the project in groups of three?**
-
-> No. Projects may be developed **individually or in pairs only**. Team members should have comparable programming skills. Exceptions may negatively affect the evaluation.
-
-**Can we use JavaScript, TypeScript, Kotlin, Dart, Swift, C++, or C#?**
-
-> No. **Only Java is allowed.**
-
-**Can we use external libraries?**
-
-> Yes. Code reuse and modularity are core principles of object-oriented programming. The use of appropriate external libraries is encouraged.
-
-**When is the best time to start the project?**
-
-> The first half of the course focuses on fundamental concepts that should be mastered first. It is recommended to start the project around the midterm and dedicate the second half of the course to refining the design and implementation.
